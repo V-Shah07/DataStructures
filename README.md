@@ -10,7 +10,7 @@
 
 ### Alternatively:
 1. Download the files of this repository by zipping it, and then open that folder through file explorer
-2. If you are on a linux based shell: ```g++ -o DataStructures LinkedLists.cpp StacksQueues.cpp main.cpp``` should compile and ```./DataStructures.exe``` should run it
+2. If you are on a linux based shell: ```g++ -o DataStructures LinkedLists.cpp StacksQueues.cpp main.cpp``` should compile and ```./DataStructures``` should run it
 3. If you are on windows: ```gcc LinkedLists.cpp StacksQueues.cpp main.cpp -o DataStructures.exe``` should compile and ```DataStructures.exe```
 
 ## How it works:
